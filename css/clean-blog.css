@@ -418,16 +418,28 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
-.column {
-    float: left;
-    padding: 10px;
-    height: 300px;
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  padding: 15px 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 0;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.left {
-  width: 65%;
+.btn2 {
+  background-color: #0085A1;
+  border-color: #0085A1;
 }
 
-.right {
-  width: 35%;
+.btn2:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: #00657b !important;
+  border-color: #00657b !important;
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 25px 35px;
 }
