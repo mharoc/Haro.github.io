@@ -1,12 +1,10 @@
-# [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
+# LINKED - Haro (https://mharoc.github.io/haro.github.io/index.html)
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+[Linked](https://mharoc.github.io/haro.github.io/index.html) is a social media platform for posting and finding events in the Bay Area to take action for social change, created by Haro. This website features a homepage, about page, find event page, and a contact page.
 
 ## Preview
 
-[![Clean Blog Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](https://blackrockdigital.github.io/startbootstrap-clean-blog/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-clean-blog/)**
+**[View Live Preview] (https://mharoc.github.io/haro.github.io/index.html)**
 
 ## Status
 
